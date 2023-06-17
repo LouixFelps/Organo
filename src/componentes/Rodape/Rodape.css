@@ -1,0 +1,20 @@
+.rodape-final{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6278F7;
+    padding: 75px 160px;
+}
+
+.redes-sociais a{
+    display: inline-block;
+    margin-right: 48px;
+
+}
+
+.texto h3{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 20px;
+    color: #FFF;
+}
